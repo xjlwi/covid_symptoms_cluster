@@ -4,11 +4,13 @@ This repository hosts some data cleaning, data pre-processing and data visulisat
 The dataset used is the Covid-19 Symptoms Checker which can be found here:  https://www.kaggle.com/iamhungundji/covid19-symptoms-checker <br>
 
 <br>
-The 3 unsupervised learning techniques are:
-..1. K-means algorithm
-..2. Principal Component Analysis (PCA)
-..3. K-modes Algorithm
-
+The 3 unsupervised learning techniques are: </br>
+	<ol>
+	<li> K-means algorithm </li>
+	<li> Principal Component Analysis (PCA) </li>
+	<li> K-modes Algorithm </li>
+	</ol>
+	
 ### References:
 <https://www.kaggle.com/chandrimad31/different-clustering-techniques-country-profiles#(1)-Principal-Component-Analysis>
 <https://www.kaggle.com/sararasoulian/classification>
