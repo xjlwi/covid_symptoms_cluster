@@ -5,9 +5,9 @@ The dataset used is the Covid-19 Symptoms Checker which can be found here:  http
 
 <br>
 The 3 unsupervised learning techniques are:
-⋅⋅1. K-means algorithm
-⋅⋅2. Principal Component Analysis (PCA)
-⋅⋅3. K-modes Algorithm
+..1. K-means algorithm
+..2. Principal Component Analysis (PCA)
+..3. K-modes Algorithm
 
 ### References:
 <https://www.kaggle.com/chandrimad31/different-clustering-techniques-country-profiles#(1)-Principal-Component-Analysis>
